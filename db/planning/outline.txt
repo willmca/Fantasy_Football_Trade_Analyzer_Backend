@@ -1,0 +1,9 @@
+Scoring for ratings will be FantasyPros PPR scoring settings.
+
+Formula is based on top 300 players. Average league is 10 players with 16 roster spots. 300 players in DB should account for even large leagues.
+
+Y = player rating from 0.05 - 15
+X = Player ranking according to fantasypros rest of season rankings
+
+Formula:
+Y = 15 - ((x-1) * 0.05)
