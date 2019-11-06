@@ -2297,7 +2297,7 @@
        "Position":"WR",
        "Rating":0.25,
        "Rank":296,
-       "PhotoURL":""
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3085107.png"
    },
    {
        "Name":"Nick Folk",
@@ -2305,7 +2305,7 @@
        "Position":"K",
        "Rating":1.05,
        "Rank":280,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/10621.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/10621.png"
    },
    {
        "Name":"Wendell Smallwood",
@@ -2313,7 +2313,7 @@
        "Position":"RB",
        "Rating":0.60,
        "Rank":289,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3042429.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3042429.png"
    },
    {
        "Name":"Nick Foles",
@@ -2329,7 +2329,7 @@
        "Position":"QB",
        "Rating":3.80,
        "Rank":252,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/2574511.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/2574511.png"
    },
    {
        "Name":"Ryan Finley",
@@ -2345,7 +2345,7 @@
        "Position":"TE",
        "Rating":3.95,
        "Rank":220,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3116164.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3116164.png"
    },
    {
        "Name":"Michael Badgley",
@@ -2361,7 +2361,7 @@
        "Position":"WR",
        "Rating":3.20,
        "Rank":237,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3115306.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3115306.png"
    },
    {
        "Name":"Keelan Cole",
@@ -2369,7 +2369,7 @@
        "Position":"WR",
        "Rating":3.10,
        "Rank":239,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3071572.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/3071572.png"
    },
    {
        "Name":"Ryan Fitzpatrick",
@@ -2377,7 +2377,7 @@
        "Position":"QB",
        "Rating":1.85,
        "Rank":264,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/8664.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/8664.png"
    },
    {
        "Name":"Josh Gordon",
@@ -2385,7 +2385,7 @@
        "Position":"WR",
        "Rating":8.45,
        "Rank":132,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/15705.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/15705.png"
 
    },
    {
@@ -2394,9 +2394,6 @@
        "Position":"TE",
        "Rating":0.40,
        "Rank":293,
-       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/14054.png"
+       "PhotoURL":"https://a.espncdn.com/combiner/i?img=/i/headshots/nfl/players/full/14054.png"
    }
-  
-
-
 ]
