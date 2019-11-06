@@ -68,8 +68,8 @@
         "Name": "Chris Godwin",
         "Team": "Tampa Bay Buccaneers",
         "Position": "WR",
-        "Rating": 14.45,
-        "Rank":12,
+        "Rating": 14.30,
+        "Rank":15,
         "PhotoURL": "https://a.espncdn.com/i/headshots/nfl/players/full/3116165.png"
     },
     {
@@ -92,24 +92,24 @@
         "Name": "Nick Chubb",
         "Team": "Cleveland Browns",
         "Position": "RB",
-        "Rating": 14.30,
-        "Rank":15,
+        "Rating": 14.35,
+        "Rank":14,
         "PhotoURL": "https://a.espncdn.com/i/headshots/nfl/players/full/3128720.png"
     },
     {
         "Name": "Tyreek Hill",
         "Team": "Kansas City Chiefs",
         "Position": "WR",
-        "Rating": 14.40,
-        "Rank":13,
+        "Rating": 14.45,
+        "Rank":12,
         "PhotoURL": "https://a.espncdn.com/i/headshots/nfl/players/full/3116406.png"
     },
     {
         "Name":"Travis Kelce",
         "Team":"Kansas City Chiefs",
         "Position":"TE",
-        "Rating":14.35,
-        "Rank":14,
+        "Rating":14.30,
+        "Rank":13,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15847.png"
     },
     {
@@ -124,72 +124,72 @@
         "Name":"Leveon Bell",
         "Team":"New York Jets",
         "Position":"RB",
-        "Rating":14.20,
-        "Rank":17,
+        "Rating":14.00,
+        "Rank":21,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15825.png"
     },
     {
         "Name":"Chris Carson",
         "Team":"Seattle Seahawks",
         "Position":"RB",
-        "Rating":14.25,
-        "Rank":16,
+        "Rating":14.20,
+        "Rank":17,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3919596.png"
     },
     {
         "Name": "Keenan Allen",
         "Team": "Los Angeles Chargers",
         "Position": "WR",
-        "Rating": 14.00,
-        "Rank":21,
+        "Rating": 13.75,
+        "Rank":26,
         "PhotoURL": "https://a.espncdn.com/i/headshots/nfl/players/full/15818.png"
     },
     {
         "Name":"Davante Adams",
         "Team":"Green Bay Packers",
         "Position":"WR",
-        "Rating":14.05,
-        "Rank":20,
+        "Rating":14.15,
+        "Rank":18,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16800.png"
     },
     {
         "Name": "Mike Evans",
         "Team":"Tampa Bay Buccaneers",
         "Position":"WR",
-        "Rating":14.10,
-        "Rank":19,
+        "Rating":14.15,
+        "Rank":20,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16737.png"
     },
     {
         "Name":"Aaron Jones",
         "Team":"Green Bay Packers",
         "Position":"RB",
-        "Rating":14.15,
-        "Rank":18,
+        "Rating":14.25,
+        "Rank":16,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3042519.png"
     },
     {
         "Name": "Odell Beckham",
         "Team":"Cleveland Browns",
         "Position":"WR",
-        "Rating":13.70,
-        "Rank":27,
+        "Rating":13.65,
+        "Rank":28,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16733.png"
     },
     {
         "Name": "David Johnson",
         "Team": "Arizona Cardinals",
         "Position": "RB",
-        "Rating": 13.75,
-        "Rank":26,
+        "Rating": 13.55,
+        "Rank":30,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2508176.png"
     },
     {
         "Name":"Josh Jacobs",
         "Team":"Oakland Raiders",
         "Position":"RB",
-        "Rating":13.90,
-        "Rank":23,
+        "Rating":14.10,
+        "Rank":19,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4047365.png"
     },
     {
@@ -204,72 +204,72 @@
         "Name":"James Conner",
         "Team":"Pittsburgh Steelers",
         "Position":"RB",
-        "Rating":13.80,
-        "Rank":25,
+        "Rating":13.35,
+        "Rank":34,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3045147.png"
     },
     {
         "Name":"Tyler Lockett",
         "Team":"Seattle Seahawks",
         "Position":"WR",
-        "Rating":13.65,
-        "Rank":28,
+        "Rating":13.90,
+        "Rank":23,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2577327.png"
     },
     {
         "Name":"T.Y. Hilton",
         "Team":"Indianapolis Colts",
         "Position":"WR",
-        "Rating":13.30,
-        "Rank":35,
+        "Rating":12.55,
+        "Rank":50,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14924.png"
     },
     {
         "Name":"Adam Thielen",
         "Team":"Minnesota Vikings",
         "Position":"WR",
-        "Rating":13.45,
-        "Rank":32,
+        "Rating":13.00,
+        "Rank":41,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16460.png"
     },
     {
         "Name":"Marlon Mack",
         "Team":"Indianapolis Colts",
         "Position":"RB",
-        "Rating":13.55,
-        "Rank":30,
+        "Rating":13.40,
+        "Rank":33,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3139605.png"
     },
     {
         "Name":"Derrick Henry",
         "Team":"Tennessee Titans",
         "Position":"RB",
-        "Rating":13.50,
-        "Rank":31,
+        "Rating":13.45,
+        "Rank":32,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3043078.png"
     },
     {
         "Name":"Kenny Golladay",
         "Team":"Detroit Lions",
         "Position":"WR",
-        "Rating":13.60,
-        "Rank":29,
+        "Rating":13.80,
+        "Rank":25,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2974858.png"
     },
     {
         "Name":"Todd Gurley",
         "Team":"Los Angeles Rams",
         "Position":"RB",
-        "Rating":13.40,
-        "Rank":33,
+        "Rating":13.50,
+        "Rank":31,
         "PhotoURL":"https://a.espncdn.com/headshots/nfl/players/full/2977644.png"
     },
     {
         "Name":"Mark Ingram",
         "Team":"Baltimore Ravens",
         "Position":"RB",
-        "Rating":13.10,
-        "Rank":39,
+        "Rating":13.25,
+        "Rank":36,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13981.png"
     },
     {
@@ -284,40 +284,40 @@
         "Name":"Stefon Diggs",
         "Team":"Minnesota Vikings",
         "Position":"WR",
-        "Rating":13.35,
-        "Rank":34,
+        "Rating":13.60,
+        "Rank":29,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2976212.png"
     },
     {
         "Name":"Austin Hooper",
         "Team":"Atlanta Falcons",
         "Position":"TE",
-        "Rating":13.20,
-        "Rank":37,
+        "Rating":13.30,
+        "Rank":35,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3043275.png"
     },
     {
         "Name":"D.J. Chark",
         "Team":"Jacksonville Jaguars",
         "Position":"WR",
-        "Rating":12.75,
-        "Rank":46,
+        "Rating":12.85,
+        "Rank":44,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3115394.png"
     },
     {
         "Name":"Melvin Gordon",
         "Team":"Los Angeles Chargers",
         "Position":"RB",
-        "Rating":12.90,
-        "Rank":43,
+        "Rating":13.70,
+        "Rank":27,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576434.png"
     },
     {
         "Name":"Devonta Freeman",
         "Team":"Atlanta Falcons",
         "Position":"RB",
-        "Rating":13.15,
-        "Rank":38,
+        "Rating":13.10,
+        "Rank":39,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16944.png"
     },
     {
@@ -332,120 +332,120 @@
         "Name":"Phillip Lindsay",
         "Team":"Denver Broncos",
         "Position":"RB",
-        "Rating":13.20,
-        "Rank":47,
+        "Rating":13.45,
+        "Rank":42,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3052117.png"
     },
     {
         "Name":"Allen Robinson",
         "Team":"Chicago Bears",
         "Position":"WR",
-        "Rating":13.00,
-        "Rank":41,
+        "Rating":13.20,
+        "Rank":37,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16799.png"
     },
     {
         "Name":"Darren Waller",
         "Team":"Oakland Raiders",
         "Position":"TE",
-        "Rating":12.55,
-        "Rank":50,
+        "Rating":12.90,
+        "Rank":43,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576925.png"
     },
     {
         "Name":"Deshaun Watson",
         "Team":"Houston Texans",
         "Position":"QB",
-        "Rating":12.95,
-        "Rank":42,
+        "Rating":12.35,
+        "Rank":54,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3122840.png"
     },
     {
         "Name":"JuJu Smith-Schuster",
         "Team":"Pittsburgh Steelers",
         "Position":"WR",
-        "Rating":13.05,
-        "Rank":40,
+        "Rating":13.15,
+        "Rank":38,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3120348.png"
     },
     {
         "Name":"Tevin Coleman",
         "Team":"San Francisco 49ers",
         "Position":"RB",
-        "Rating":13.25,
-        "Rank":36,
+        "Rating":13.10,
+        "Rank":39,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2979477.png"
     },
     {
         "Name":"Lamar Jackson",
         "Team":"Baltimore Ravens",
         "Position":"QB",
-        "Rating":12.25,
-        "Rank":56,
+        "Rating":12.60,
+        "Rank":49,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3916387.png"
     },
     {
         "Name":"Terry McLaurin",
         "Team":"Washington Redskins",
         "Position":"WR",
-        "Rating":12.35,
-        "Rank":54,
+        "Rating":11.25,
+        "Rank":76,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3121422.png"
     },
     {
         "Name":"James White",
         "Team":"New England Patriots",
         "Position":"RB",
-        "Rating":12.85,
-        "Rank":44,
+        "Rating":12.65,
+        "Rank":48,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16913.png"
     },
     {
         "Name":"Robert Woods",
         "Team":"Los Angeles Rams",
         "Position":"WR",
-        "Rating":12.65,
-        "Rank":48,
+        "Rating":12.70,
+        "Rank":47,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15880.png"
     },
     {
         "Name":"Joe Mixon",
         "Team":"Cincinatti Bengals",
         "Position":"RB",
-        "Rating":12.40,
-        "Rank":53,
+        "Rating":12.00,
+        "Rank":61,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3116385.png"
     },
     {
         "Name":"Larry Fitzgerald",
         "Team":"Arizona Cardinals",
         "Position":"WR",
-        "Rating":11.85,
-        "Rank":64,
+        "Rating":10.35,
+        "Rank":94,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/5528.png"
     },
     {
         "Name":"Sony Michel",
         "Team":"New England Patriots",
         "Position":"RB",
-        "Rating":12.60,
-        "Rank":49,
+        "Rating":12.30,
+        "Rank":55,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3128721.png"
     },
     {
         "Name":"Tyler Boyd",
         "Team":"Cincinatti Bengals",
         "Position":"WR",
-        "Rating":12.30,
-        "Rank":55,
+        "Rating":11.60,
+        "Rank":69,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3045144.png"
     },
     {
         "Name":"Courtland Sutton",
         "Team":"Denver Broncos",
         "Position":"WR",
-        "Rating":12.45,
-        "Rank":52,
+        "Rating":12.50,
+        "Rank":51,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3128429.png"
     },
     {
@@ -460,72 +460,72 @@
         "Name":"LeSean McCoy",
         "Team":"Kansas City Chiefs",
         "Position":"RB",
-        "Rating":11.95,
-        "Rank":62,
+        "Rating":11.30,
+        "Rank":75,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/12514.png"
     },
     {
         "Name":"David Montgomery",
         "Team":"Chicago Bears",
         "Position":"RB",
-        "Rating":12.50,
-        "Rank":51,
+        "Rating":12.75,
+        "Rank":46,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4035538.png"
     },
     {
         "Name":"Matt Breida",
         "Team":"San Francisco 49ers",
         "Position":"RB",
-        "Rating":12.0,
-        "Rank":61,
+        "Rating":11.70,
+        "Rank":67,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3049916.png"
     },
     {
         "Name":"Brandin Cooks",
         "Team":"Los Angeles Rams",
         "Position":"WR",
-        "Rating":11.15,
-        "Rank":78,
+        "Rating":10.65,
+        "Rank":88,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16731.png"
     },
     {
         "Name":"D.J. Moore",
         "Team":"Carolina Panthers",
         "Position":"WR",
-        "Rating":11.80,
-        "Rank":65,
+        "Rating":12.10,
+        "Rank":59,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3915416.png"
     },
     {
         "Name":"Mark Andrews",
         "Team":"Baltimore Ravens",
         "Position":"TE",
-        "Rating":11.35,
-        "Rank":74,
+        "Rating":11.10,
+        "Rank":79,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3116365.png"
     },
     {
         "Name":"Royce Freeman",
         "Team":"Denver Broncos",
         "Position":"RB",
-        "Rating":11.75,
-        "Rank":66,
+        "Rating":11.65,
+        "Rank":68,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3122672.png"
     },
     {
         "Name":"Evan Engram",
         "Team":"New York Giants",
         "Position":"TE",
-        "Rating":11.90,
-        "Rank":63,
+        "Rating":11.50,
+        "Rank":71,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3051876.png"
     },
     {
         "Name":"Carlos Hyde",
         "Team":"Houston Texans",
         "Position":"RB",
-        "Rating":12.10,
-        "Rank":59,
+        "Rating":11.80,
+        "Rank":65,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16777.png"
     },
     {
@@ -540,128 +540,128 @@
         "Name":"Russell Wilson",
         "Team":"Seattle Seahawks",
         "Position":"QB",
-        "Rating":11.30,
-        "Rank":75,
+        "Rating":11.45,
+        "Rank":72,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14881.png"
     },
     {
         "Name":"Chase Edmonds",
         "Team":"Arizona Cardinals",
         "Position":"RB",
-        "Rating":8.70,
-        "Rank":127,
+        "Rating":7.35,
+        "Rank":154,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3119195.png"
     },
     {
         "Name":"Michael Gallup",
         "Team":"Dallas Cowboys",
         "Position":"WR",
-        "Rating":11.70,
-        "Rank":67,
+        "Rating":11.75,
+        "Rank":66,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4036348.png"
     },
     {
         "Name":"Miles Sanders",
         "Team":"Philadelphia Eagles",
         "Position":"RB",
-        "Rating":11.40,
-        "Rank":73,
+        "Rating":11.05,
+        "Rank":80,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4045163.png"
     },
     {
         "Name":"Hunter Henry",
         "Team":"Los Angeles Chargers",
         "Position":"TE",
-        "Rating":11.65,
-        "Rank":68,
+        "Rating":11.85,
+        "Rank":64,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3046439.png"
     },
     {
         "Name":"Patrick Mahomes",
         "Team":"Kansas City Chiefs",
         "Position":"QB",
-        "Rating":12.20,
-        "Rank":57,
+        "Rating":12.40,
+        "Rank":53,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3139477.png"
     },
     {
         "Name":"Matt Ryan",
         "Team":"Atlanta Falcons",
         "Position":"QB",
-        "Rating":11.00,
-        "Rank":81,
+        "Rating":10.70,
+        "Rank":87,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/11237.png"
     },
     {
         "Name":"Damien Williams",
         "Team":"Kansas City Chiefs",
         "Position":"RB",
-        "Rating":11.60,
-        "Rank":75,
+        "Rating":12.20,
+        "Rank":63,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/17359.png"
     },
     {
         "Name":"Alshon Jeffery",
         "Team":"Philadelphia Eagles",
         "Position":"WR",
-        "Rating":11.45,
-        "Rank":72,
+        "Rating":11.20,
+        "Rank":77,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14912.png"
     },
     {
         "Name":"John Brown",
         "Team":"Buffalo Bills",
         "Position":"WR",
-        "Rating":11.55,
-        "Rank":70,
+        "Rating":12.40,
+        "Rank":57,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16804.png"
     },
     {
         "Name":"Jordan Howard",
         "Team":"Philadelphia Eagles",
         "Position":"RB",
-        "Rating":11.20,
-        "Rank":79,
+        "Rating":11.00,
+        "Rank":81,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3060022.png"
     },
     {
         "Name":"Curtis Samuel",
         "Team":"Carolina Panthers",
         "Position":"WR",
-        "Rating":10.70,
-        "Rank":87,
+        "Rating":10.55,
+        "Rank":90,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3121427.png"
     },
     {
         "Name":"Aaron Rodgers",
         "Team":"Green Bay Packers",
         "Position":"QB",
-        "Rating":10.85,
-        "Rank":84,
+        "Rating":10.75,
+        "Rank":86,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/8439.png"
     },
     {
         "Name":"Dak Prescott",
         "Team":"Dallas Cowboys",
         "Position":"QB",
-        "Rating":10.60,
-        "Rank":89,
+        "Rating":10.40,
+        "Rank":93,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2577417.png"
     },
     {
         "Name":"Ronald Jones II",
         "Team":"Tampa Bay Buccaneers",
         "Position":"RB",
-        "Rating":10.25,
-        "Rank":96,
+        "Rating":10.80,
+        "Rank":85,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3912550.png"
     },
     {
         "Name":"Emmanuel Sanders",
         "Team":"San Francisco 49ers",
         "Position":"WR",
-        "Rating":10.75,
-        "Rank":86,
+        "Rating":11.95,
+        "Rank":62,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13295.png"
     },
     {
@@ -676,504 +676,488 @@
         "Name":"Latavius Murray",
         "Team":"New Orleans Saints",
         "Position":"RB",
-        "Rating":11.50,
-        "Rank":71,
+        "Rating":11.15,
+        "Rank":78,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15920.png"
     },
     {
         "Name":"Golden Tate",
         "Team":"New York Giants",
         "Position":"WR",
-        "Rating":11.05,
-        "Rank":80,
+        "Rating":11.55,
+        "Rank":70,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13217.png"
     },
     {
         "Name":"Ty Johnson",
         "Team":"Detroit Lions",
         "Position":"RB",
-        "Rating":9.45,
-        "Rank":112,
+        "Rating":9.55,
+        "Rank":110,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3915411.png"
     },
     {
         "Name":"Sammy Watkins",
         "Team":"Kansas City Chiefs",
         "Position":"WR",
-        "Rating":9.60,
-        "Rank":109,
+        "Rating":9.95,
+        "Rank":102,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16725.png"
     },
     {
         "Name":"Mike Williams",
         "Team":"Los Angeles Chargers",
         "Position":"WR",
-        "Rating":10.65,
-        "Rank":88,
+        "Rating":10.90,
+        "Rank":83,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3045138.png"
     },
     {
         "Name":"A.J. Green",
         "Team":"Cincinatti Bengals",
         "Position":"WR",
-        "Rating":11.25,
-        "Rank":76,
+        "Rating":12.25,
+        "Rank":56,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13983.png"
     },
     {
         "Name":"Tom Brady",
         "Team":"New England Patriots",
         "Position":"QB",
-        "Rating":10.55,
-        "Rank":90,
+        "Rating":10.20,
+        "Rank":97,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2330.png"
     },
     {
         "Name":"Kenyan Drake",
         "Team":"Miami Dolphins",
         "Position":"RB",
-        "Rating":10.90,
-        "Rank":83,
+        "Rating":11.35,
+        "Rank":74,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2979843.png"
     },
     {
         "Name":"Carson Wentz",
         "Team":"Philadelphia Eagles",
         "Position":"QB",
-        "Rating":9.80,
-        "Rank":105,
+        "Rating":9.30,
+        "Rank":115,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2573079.png"
     },
     {
         "Name":"Tarik Cohen",
         "Team":"Chicago Bears",
         "Position":"RB",
-        "Rating":10.95,
-        "Rank":82,
+        "Rating":10.50,
+        "Rank":91,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3066158.png"
     },
     {
         "Name":"Jamaal Williams",
         "Team":"Green Bay Packers",
         "Position":"RB",
-        "Rating":10.00,
-        "Rank":101,
+        "Rating":11.40,
+        "Rank":73,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2980453.png"
     },
     {
         "Name":"Duke Johnson",
         "Team":"Houston Texans",
         "Position":"RB",
-        "Rating":9.90,
-        "Rank":103,
+        "Rating":9.75,
+        "Rank":106,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2969962.png"
     },
     {
         "Name":"Robby Anderson",
         "Team":"New York Jets",
         "Position":"WR",
-        "Rating":10.40,
-        "Rank":93,
+        "Rating":9.10,
+        "Rank":119,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2574808.png"
     },
     {
         "Name":"Jarvis Landry",
         "Team":"Cleveland Browns",
         "Position":"WR",
-        "Rating":10.35,
-        "Rank":94,
+        "Rating":10.05,
+        "Rank":100,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16790.png"
     },
     {
         "Name":"Christian Kirk",
         "Team":"Arizona Cardinals",
         "Position":"WR",
-        "Rating":10.80,
-        "Rank":85,
+        "Rating":10.85,
+        "Rank":84,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3124537.png"
     },
     {
         "Name":"Jameis Winston",
         "Team":"Tampa Bay Buccaneers",
         "Position":"QB",
-        "Rating":9.70,
-        "Rank":107,
+        "Rating":9.60,
+        "Rank":109,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2969939.png"
     },
     {
         "Name":"Marvin Jones",
         "Team":"Detroit Lions",
         "Position":"WR",
-        "Rating":10.50,
-        "Rank":91,
+        "Rating":10.95,
+        "Rank":82,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15072.png"
     },
     {
         "Name":"Sterling Shepard",
         "Team":"New York Giants",
         "Position":"WR",
-        "Rating":8.95,
-        "Rank":122,
+        "Rating":8.70,
+        "Rank":127,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2976592.png"
     },
     {
         "Name":"Alexander Mattison",
         "Team":"Minnesota Vikings",
         "Position":"RB",
-        "Rating":10.20,
-        "Rank":97,
+        "Rating":10.10,
+        "Rank":99,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4048244.png"
     },
     {
         "Name":"Dede Westbrook",
         "Team":"Jacksonville Jaguars",
         "Position":"WR",
-        "Rating":8.80,
-        "Rank":125,
+        "Rating":9.20,
+        "Rank":117,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3892889.png"
     },
     {
         "Name":"Josh Allen",
         "Team":"Buffalo Bills",
         "Position":"QB",
-        "Rating":9.65,
-        "Rank":108,
+        "Rating":9.40,
+        "Rank":113,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3918298.png"
     },
     {
         "Name":"Tyrell Williams",
         "Team":"Oakland Raiders",
         "Position":"WR",
-        "Rating":10.30,
-        "Rank":95,
+        "Rating":10.60,
+        "Rank":89,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2587819.png"
     },
     {
         "Name":"Marquise Brown",
         "Team":"Baltimore Ravens",
         "Position":"WR",
-        "Rating":9.55,
-        "Rank":110,
+        "Rating":9.70,
+        "Rank":107,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4241372.png"
     },
     {
         "Name":"Jared Goff",
         "Team":"Los Angeles Rams",
         "Position":"QB",
-        "Rating":9.15,
-        "Rank":118,
+        "Rating":9.00,
+        "Rank":121,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3046779.png"
     },
     {
         "Name":"Marquez Valdes-Scantling",
         "Team":"Green Bay Packers",
         "Position":"WR",
-        "Rating":8.90,
-        "Rank":123,
+        "Rating":8.35,
+        "Rank":134,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3051738.png"
     },
     {
         "Name":"Matthew Stafford",
         "Team":"Detroit Lions",
         "Position":"QB",
-        "Rating":9.35,
-        "Rank":114,
+        "Rating":9.65,
+        "Rank":108,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/12483.png"
     },
     {
         "Name":"Rashaad Penny",
         "Team":"Seattle Seahawks",
         "Position":"RB",
-        "Rating":10.10,
-        "Rank":99,
+        "Rating":9.35,
+        "Rank":114,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3139925.png"
     },
     {
         "Name":"Chris Thompson",
         "Team":"Washington Redskins",
         "Position":"RB",
-        "Rating":9.00,
-        "Rank":121,
+        "Rating":8.65,
+        "Rank":128,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15966.png"
     },
     {
         "Name":"Devin Singletary",
         "Team":"Buffalo Bills",
         "Position":"RB",
-        "Rating":11.20,
-        "Rank":77,
+        "Rating":12.45,
+        "Rank":52,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4040761.png"
     },
     {
         "Name":"Jacoby Brissett",
         "Team":"Indianapolis Colts",
         "Position":"QB",
-        "Rating":8.40,
-        "Rank":133,
+        "Rating":7.70,
+        "Rank":147,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2578570.png"
     },
     {
         "Name":"Adrian Peterson",
         "Team":"Washington Redskins",
         "Position":"RB",
-        "Rating":10.05,
-        "Rank":100,
+        "Rating":10.25,
+        "Rank":96,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/10452.png"
     },
     {
         "Name":"D.K. Metcalf",
         "Team":"Seattle Seahawks",
         "Position":"WR",
-        "Rating":10.15,
-        "Rank":98,
+        "Rating":9.90,
+        "Rank":103,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4047650.png"
     },
     {
         "Name":"Jamison Crowder",
         "Team":"New York Jets",
         "Position":"WR",
-        "Rating":9.25,
-        "Rank":116,
+        "Rating":9.80,
+        "Rank":105,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576716.png"
     },
     {
         "Name":"Corey Davis",
         "Team":"Tennessee Titans",
         "Position":"WR",
-        "Rating":9.40,
-        "Rank":113,
+        "Rating":8.80,
+        "Rank":125,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3042778.png"
     },
     {
         "Name":"Will Fuller",
         "Team":"Houston Texans",
         "Position":"WR",
-        "Rating":9.10,
-        "Rank":119,
+        "Rating":8.90,
+        "Rank":123,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3052876.png"
     },
     {
         "Name":"Phillip Rivers",
         "Team":"Los Angeles Chargers",
         "Position":"QB",
-        "Rating":8.00,
-        "Rank":141,
+        "Rating":8.40,
+        "Rank":133,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/5529.png"
     },
     {
         "Name":"T.J. Hockenson",
         "Team":"Detroit Lions",
         "Position":"TE",
-        "Rating":7.25,
-        "Rank":156,
+        "Rating":7.00,
+        "Rank":161,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4036133.png"
     },
     {
         "Name":"Mohamed Sanu",
         "Team":"New England Patriots",
         "Position":"WR",
-        "Rating":9.85,
-        "Rank":104,
+        "Rating":9.45,
+        "Rank":112,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14922.png"
     },
     {
         "Name":"Kirk Cousins",
         "Team":"Minnesota Vikings",
         "Position":"QB",
-        "Rating":8.10,
-        "Rank":139,
+        "Rating":8.30,
+        "Rank":135,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14880.png"
     },
     {
         "Name":"Frank Gore",
         "Team":"Buffalo Bills",
         "Position":"RB",
-        "Rating": 9.75,
-        "Rank":106,
+        "Rating": 9.05,
+        "Rank":120,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/8479.png"
     },
     {
         "Name":"Greg Olsen",
         "Team":"Carolina Panthers",
         "Position":"TE",
-        "Rating":8.85,
-        "Rank":124,
+        "Rating":8.60,
+        "Rank":129,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/10475.png"
     },
     {
         "Name":"Tony Pollard",
         "Team":"Dallas Cowboys",
         "Position":"RB",
-        "Rating":7.45,
-        "Rank":152,
+        "Rating":6.95,
+        "Rank":162,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3916148.png"
     },
     {
         "Name":"Rex Burkhead",
         "Team":"New England Patriots",
         "Position":"RB",
-        "Rating":8.35,
-        "Rank":134,
+        "Rating":8.05,
+        "Rank":140,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15971.png"
     },
     {
         "Name":"A.J. Brown",
         "Team":"Tennessee Titans",
         "Position":"WR",
-        "Rating":8.15,
-        "Rank":138,
+        "Rating":7.85,
+        "Rank":144,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3042778.png"
     },
     {
         "Name":"Devante Parker",
         "Team":"Miami Dolphins",
         "Position":"WR",
-        "Rating":8.45,
-        "Rank":132,
+        "Rating":9.85,
+        "Rank":104,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576623.png"
     },
     {
         "Name":"Malcom Brown",
         "Team":"Los Angeles Rams",
         "Position":"RB",
-        "Rating":8.50,
-        "Rank":131,
+        "Rating":7.60,
+        "Rank":149,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2570986.png"
     },
     {
         "Name":"Jimmy Graham",
         "Team":"Green Bay Packers",
         "Position":"TE",
-        "Rating":8.75,
-        "Rank":126,
+        "Rating":8.85,
+        "Rank":124,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13232.png"
     },
     {
         "Name":"Drew Brees",
         "Team":"New Orleans Saints",
         "Position":"QB",
-        "Rating":9.30,
-        "Rank":115,
+        "Rating":10.15,
+        "Rank":98,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2580.png"
     },
     {
         "Name":"Peyton Barber",
         "Team":"Tampa Bay Buccaneers",
         "Position":"RB",
-        "Rating":8.55,
-        "Rank":130,
+        "Rating":7.80,
+        "Rank":145,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3051902.png"
     },
     {
         "Name":"Phillip Dorsett",
         "Team":"New England Patriots",
         "Position":"WR",
-        "Rating":9.05,
-        "Rank":120,
+        "Rating":8.50,
+        "Rank":131,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2579604.png"
     },
     {
         "Name":"Baker Mayfield",
         "Team":"Cleveland Browns",
         "Position":"QB",
-        "Rating":7.75,
-        "Rank":146,
+        "Rating":7.45,
+        "Rank":152,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3052587.png"
     },
     {
         "Name":"Gerald Everett",
         "Team":"Los Angeles Rams",
         "Position":"TE",
-        "Rating":9.95,
-        "Rank":102,
+        "Rating":10.00,
+        "Rank":101,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3918639.png"
     },
     {
         "Name":"Andy Dalton",
         "Team":"Cincinatti Bengals",
         "Position":"QB",
-        "Rating":6.50,
-        "Rank":171,
+        "Rating":1.75,
+        "Rank":266,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14012.png"
     },
     {
         "Name":"Darrell Henderson",
         "Team":"Los Angeles Rams",
         "Position":"RB",
-        "Rating":7.80,
-        "Rank":145,
+        "Rating":8.25,
+        "Rank":136,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4039359.png"
     },
     {
         "Name":"Gardner Minshew",
         "Team":"Jacksonville Jaguars",
         "Position":"QB",
-        "Rating":7.40,
-        "Rank":153,
+        "Rating":3.30,
+        "Rank":235,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4038524.png"
     },
     {
         "Name":"Cole Beasley",
         "Team":"Buffalo Bills",
         "Position":"WR",
-        "Rating":8.30,
-        "Rank":135,
+        "Rating":7.40,
+        "Rank":153,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15349.png"
-    },
-    {
-        "Name":"Preston Williams",
-        "Team":"Miami Dolphins",
-        "Position":"WR",
-        "Rating":7.85,
-        "Rank":144,
-        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3915399.png"
-    },
-    {
-        "Name":"DeSean Jackson",
-        "Team":"Philadelphia Eagles",
-        "Position":"WR",
-        "Rating":8.65,
-        "Rank":128,
-        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/11283.png"
     },
     {
         "Name":"Daniel Jones",
         "Team":"New York Giants",
         "Position":"QB",
-        "Rating":7.50,
-        "Rank":151,
+        "Rating":7.55,
+        "Rank":150,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3917792.png"
     },
     {
         "Name":"Jared Cook",
         "Team":"New Orleans Saints",
         "Position":"TE",
-        "Rating":5.25,
-        "Rank":196,
+        "Rating":5.55,
+        "Rank":190,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/12537.png"
     },
     {
         "Name":"Giovani Bernard",
         "Team":"Cincinatti Bengals",
         "Position":"RB",
-        "Rating":7.70,
-        "Rank":147,
+        "Rating":7.65,
+        "Rank":148,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15826.png"
     },
     {
         "Name":"New England DST",
         "Team":"New England Patriots",
         "Position":"DST",
-        "Rating":7.35,
-        "Rank":154,
+        "Rating":7.25,
+        "Rank":156,
         "PhotoURL":"https://upload.wikimedia.org/wikipedia/sco/thumb/b/b9/New_England_Patriots_logo.svg/1280px-New_England_Patriots_logo.svg.png"
     },
     {
         "Name":"Vance McDonald",
         "Team":"Pittsburgh Steelers",
         "Position":"TE",
-        "Rating":7.90,
-        "Rank":143,
+        "Rating":7.75,
+        "Rank":146,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15853.png"
 
     },
@@ -1181,736 +1165,704 @@
         "Name":"Gus Edwards",
         "Team":"Baltimore Ravens",
         "Position":"RB",
-        "Rating":6.55,
-        "Rank":170,
+        "Rating":5.60,
+        "Rank":183,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3051926.png"
     },
     {
         "Name":"Buffalo DST",
         "Team":"Buffalo Bills",
         "Position":"DST",
-        "Rating":7.05,
-        "Rank":160,
+        "Rating":6.90,
+        "Rank":163,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/05/buffalo-bills-logo-vector-01.png"
     },
     {
         "Name":"Minnesota DST",
         "Team":"Minnesota Vikings",
         "Position":"DST",
-        "Rating":7.00,
-        "Rank":161,
+        "Rating":6.75,
+        "Rank":165,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/10/minnesota-vikings-logo-vector.png"
     },
     {
         "Name":"Jimmy Garoppolo",
         "Team":"San Francisco 49ers",
         "Position":"QB",
-        "Rating":6.00,
-        "Rank":181,
+        "Rating":7.95,
+        "Rank":142,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16760.png"
     },
     {
         "Name":"Eric Ebron",
         "Team":"Indianapolis Colts",
         "Position":"TE",
-        "Rating":8.05,
-        "Rank":140,
+        "Rating":7.50,
+        "Rank":151,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16732.png"
     },
     {
         "Name":"O.J. Howard",
         "Team":"Tampa Bay Buccaneers",
         "Position":"TE",
-        "Rating":7.15,
-        "Rank":158,
+        "Rating":7.30,
+        "Rank":155,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3043080.png"
     },
     {
         "Name":"Harrison Butker",
         "Team":"Kansas City Chiefs",
         "Position":"K",
-        "Rating":6.45,
-        "Rank":172,
+        "Rating":6.55,
+        "Rank":170,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3055899.png"
     },
     {
         "Name":"Justin Tucker",
         "Team":"Baltimore Ravens",
         "Position":"K",
-        "Rating":6.40,
-        "Rank":163,
+        "Rating":5.65,
+        "Rank":188,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15683.png"
     },
     {
         "Name":"Delanie Walker",
         "Team":"Tennessee Titans",
         "Position":"TE",
-        "Rating":7.10,
-        "Rank":159,
+        "Rating":5.70,
+        "Rank":187,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/9761.png"
     },
     {
         "Name":"Keke Coutee",
         "Team":"Houston Texans",
         "Position":"WR",
-        "Rating":5.95,
-        "Rank":182,
+        "Rating":5.25,
+        "Rank":196,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3915823.png"
     },
     {
         "Name":"Los Angeles Rams DST",
         "Team":"Los Angeles Rams",
         "Position":"DST",
-        "Rating":6.90,
-        "Rank":163,
+        "Rating":6.75,
+        "Rank":166,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2015/08/st-louis-rams-vector-logo.png"
     },
     {
         "Name":"Diontae Johnson",
         "Team":"Pittsburgh Steelers",
         "Position":"WR",
-        "Rating":7.65,
-        "Rank":148,
+        "Rating":7.90,
+        "Rank":143,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3932905.png"
     },
     {
         "Name":"Geronimo Allison",
         "Team":"Green Bay Packers",
         "Position":"WR",
-        "Rating":7.95,
-        "Rank":142,
+        "Rating":7.10,
+        "Rank":159,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3115913.png"
-    },
-    {
-        "Name":"Cam Newton",
-        "Team":"Carolina Panthers",
-        "Position":"QB",
-        "Rating":6.75,
-        "Rank":166,
-        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13994.png"
     },
     {
         "Name":"Sam Darnold",
         "Team":"New York Jets",
         "Position":"QB",
-        "Rating":5.80,
-        "Rank":185,
+        "Rating":5.75,
+        "Rank":186,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3912547.png"
     },
     {
         "Name":"Green Bay DST",
         "Team":"Green Bay Packers",
         "Position":"DST",
-        "Rating":6.20,
-        "Rank":177,
+        "Rating":5.85,
+        "Rank":184,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/12/green-bay-packers-logo-vector.png"
     },
     {
         "Name":"Nyheim Hines",
         "Team":"Indianapolis Colts",
         "Position":"RB",
-        "Rating":6.95,
-        "Rank":162,
+        "Rating":6.40,
+        "Rank":173,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3916430.png"
     },
     {
         "Name":"Dion Lewis",
         "Team":"Tennessee Titans",
         "Position":"RB",
-        "Rating":4.80,
-        "Rank":205,
+        "Rating":4.95,
+        "Rank":202,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14198.png"
     },
     {
         "Name":"New Orleans DST",
         "Team":"New Orleans Saints",
         "Position":"DST",
-        "Rating":6.30,
-        "Rank":175,
+        "Rating":6.60,
+        "Rank":167,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/12/new-orleans-saints-logo-vector.png"
     },
     {
         "Name":"Derek Carr",
         "Team":"Oakland Raiders",
         "Position":"QB",
-        "Rating":6.05,
-        "Rank":180,
+        "Rating":7.05,
+        "Rank":160,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16757.png"
     },
     {
         "Name":"Kareem Hunt",
         "Team":"Cleveland Browns",
         "Position":"RB",
-        "Rating":9.20,
-        "Rank":117,
+        "Rating":9.50,
+        "Rank":111,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3059915.png"
     },
     {
         "Name":"Auden Tate",
         "Team":"Cincinatti Bengals",
         "Position":"WR",
-        "Rating":8.60,
-        "Rank":129,
+        "Rating":8.55,
+        "Rank":130,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3921564.png"
     },
     {
         "Name":"Dallas DST",
         "Team":"Dallas Cowboys",
         "Position":"DST",
-        "Rating":5.55,
-        "Rank":190,
+        "Rating":5.35,
+        "Rank":194,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2011/05/dallas-cowboys-logo-vector.png"
     },
     {
         "Name":"Chicago DST",
         "Team":"Chicago Bears",
         "Position":"DST",
-        "Rating":7.20,
-        "Rank":157,
+        "Rating":6.85,
+        "Rank":164,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2011/05/chicago-bears-logo-vector.png"
     },
     {
         "Name":"Kenny Stills",
         "Team":"Houston Texans",
         "Position":"WR",
-        "Rating":9.50,
-        "Rank":111,
+        "Rating":9.15,
+        "Rank":118,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16016.png"
     },
     {
         "Name":"Ito Smith",
         "Team":"Atlanta Falcons",
         "Position":"RB",
-        "Rating":4.65,
-        "Rank":208,
+        "Rating":5.10,
+        "Rank":199,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3123969.png"
     },
     {
         "Name":"Will Lutz",
         "Team":"New Orleans Saints",
         "Position":"K",
-        "Rating":6.15,
-        "Rank":178,
+        "Rating":6.45,
+        "Rank":172,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2985659.png"
     },
     {
         "Name":"Chris Herndon",
         "Team":"New York Jets",
         "Position":"TE",
-        "Rating":7.60,
-        "Rank":149,
+        "Rating":7.15,
+        "Rank":158,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3123050.png"
     },
     {
         "Name":"Mason Crosby",
         "Team":"Green Bay Packers",
         "Position":"K",
-        "Rating":5.50,
-        "Rank":192,
+        "Rating":5.35,
+        "Rank":195,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/10636.png"
     },
     {
         "Name":"Carolina DST",
         "Team":"Carolina Panthers",
         "Position":"DST",
-        "Rating":5.75,
-        "Rank":186,
+        "Rating":6.35,
+        "Rank":174,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/11/carolina-panthers-logo-vector.png"
     },
     {
         "Name":"Jacksonville DST",
         "Team":"Jacksonville Jaguars",
         "Position":"DST",
-        "Rating":6.35,
-        "Rank":174,
+        "Rating":6.00,
+        "Rank":181,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2015/08/jacksonville-jaguars-logo-vector-download.jpg"
     },
     {
         "Name":"Mecole Hardman",
         "Team":"Kansas City Chiefs",
         "Position":"WR",
-        "Rating":6.85,
-        "Rank":164,
+        "Rating":6.30,
+        "Rank":175,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4035004.png"
     },
     {
         "Name":"San Francisco DST",
         "Team":"San Francisco 49ers",
         "Position":"DST",
-        "Rating":6.60,
-        "Rank":169,
+        "Rating":7.20,
+        "Rank":157,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2011/06/san-francisco-49ers-logo-vector.png"
     },
     {
         "Name":"Tennessee DST",
         "Team":"Tennessee Titans",
         "Position":"DST",
-        "Rating":5.60,
-        "Rank":189,
+        "Rating":5.40,
+        "Rank":193,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2015/08/tennessee-titans-logo-vector-download.jpg"
     },
     {
         "Name":"Demarcus Robinson",
         "Team":"Kansas City Chiefs",
         "Position":"WR",
-        "Rating":6.80,
-        "Rank":165,
+        "Rating":6.20,
+        "Rank":177,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3043116.png"
     },
     {
         "Name":"Greg Zuerlein",
         "Team":"Los Angeles Rams",
         "Position":"K",
-        "Rating":6.65,
-        "Rank":168,
+        "Rating":6.60,
+        "Rank":169,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14993.png"
     },
     {
         "Name":"Ka'imi Fairbairn",
         "Team":"Houston Texans",
         "Position":"K",
-        "Rating":6.10,
-        "Rank":179,
+        "Rating":6.15,
+        "Rank":178,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2971573.png"
     },
     {
         "Name":"Mitch Trubisky",
         "Team":"Chicago Bears",
         "Position":"QB",
-        "Rating":5.15,
-        "Rank":198,
+        "Rating":5.20,
+        "Rank":197,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3039707.png"
     },
     {
         "Name":"Brett Maher",
         "Team":"Dallas Cowboys",
         "Position":"K",
-        "Rating":4.95,
-        "Rank":202,
+        "Rating":4.50,
+        "Rank":211,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16486.png"
     },
     {
         "Name":"Los Angeles Chargers DST",
         "Team":"Los Angeles Chargers",
         "Position":"DST",
-        "Rating":4.15,
-        "Rank":218,
+        "Rating":3.90,
+        "Rank":223,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/10/san-diego-chargers-logo-vector.png"
     },
     {
         "Name":"Jaylen Samuels",
         "Team":"Pittsburgh Steelers",
         "Position":"RB",
-        "Rating":8.25,
-        "Rank":136,
+        "Rating":10.30,
+        "Rank":95,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3116721.png"
     },
     {
         "Name":"J.D. McKissic",
         "Team":"Detroit Lions",
         "Position":"RB",
-        "Rating":5.85,
-        "Rank":184,
+        "Rating":8.15,
+        "Rank":138,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2572861.png"
     },
     {
         "Name":"Baltimore DST",
         "Team":"Baltimore Ravens",
         "Position":"DST",
-        "Rating":5.50,
-        "Rank":191,
+        "Rating":6.10,
+        "Rank":179,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/05/baltimore-ravens-logo-vector-01.png"
     },
     {
         "Name":"Matt Prater",
         "Team":"Detroit Lions",
         "Position":"K",
-        "Rating":4.85,
-        "Rank":204,
+        "Rating":5.45,
+        "Rank":192,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/11122.png"
     },
     {
         "Name":"Ryquell Armstead",
         "Team":"Jacksonville Jaguars",
         "Position":"RB",
-        "Rating":4.70,
-        "Rank":207,
+        "Rating":5.80,
+        "Rank":185,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3923397.png"
     },
     {
         "Name":"Mark Walton",
         "Team":"Miami Dolphins",
         "Position":"RB",
-        "Rating":8.20,
-        "Rank":137,
+        "Rating":4.10,
+        "Rank":219,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3917846.png"
     },
     {
         "Name":"Wayne Gallman",
         "Team":"New York Giants",
         "Position":"RB",
-        "Rating":4.35,
-        "Rank":214,
+        "Rating":4.20,
+        "Rank":217,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3045127.png"
     },
     {
         "Name":"Robbie Gould",
         "Team":"San Francisco 49ers",
         "Position":"K",
-        "Rating":5.30,
-        "Rank":195,
+        "Rating":5.95,
+        "Rank":182,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/9354.png"
     },
     {
         "Name":"Nelson Agholor",
         "Team":"Philadelphia Eagles",
         "Position":"WR",
-        "Rating":5.65,
-        "Rank":188,
+        "Rating":4.15,
+        "Rank":218,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14912.png"
     },
     {
         "Name":"Benny Snell",
         "Team":"Pittsburgh Steelers",
         "Position":"RB",
-        "Rating":3.90,
-        "Rank":223,
+        "Rating":3.65,
+        "Rank":228,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4035072.png"
     },
     {
         "Name":"Raheem Mostert",
         "Team":"San Francisco 49ers",
         "Position":"RB",
-        "Rating":5.20,
-        "Rank":197,
+        "Rating":5.60,
+        "Rank":189,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576414.png"
     },
     {
         "Name":"Darrel Williams",
         "Team":"Kansas City Chiefs",
         "Position":"RB",
-        "Rating":5.10,
-        "Rank":199,
+        "Rating":3.95,
+        "Rank":212,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3115375.png"
     },
     {
         "Name":"Houston DST",
         "Team":"Houston Texans",
         "Position":"DST",
-        "Rating":3.85,
-        "Rank":224,
+        "Rating":1.80,
+        "Rank":265,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/11/houston-texans-logo-vector.png"
     },
     {
         "Name":"Jason Witten",
         "Team":"Dallas Cowboys",
         "Position":"TE",
-        "Rating":4.10,
-        "Rank":209,
+        "Rating":4.55,
+        "Rank":200,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4527.png"
     },
     {
         "Name":"Kalen Ballage",
         "Team":"Miami Dolphins",
         "Position":"RB",
-        "Rating":4.20,
-        "Rank":217,
+        "Rating":9.25,
+        "Rank":116,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3128774.png"
     },
     {
         "Name":"Jake Elliott",
         "Team":"Philadelphia Eagles",
         "Position":"K",
-        "Rating":5.05,
-        "Rank":20,
+        "Rating":5.15,
+        "Rank":198,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3050478.png"
     },
     {
         "Name":"Seattle DST",
         "Team":"Seattle Seahawks",
         "Position":"DST",
-        "Rating":3.60,
-        "Rank":229,
+        "Rating":3.50,
+        "Rank":231,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/10/seattle-seahawks-logo-vector.png"
     },
     {
         "Name":"Dallas Goedert",
         "Team":"Philadelphia Eagles",
         "Position":"TE",
-        "Rating":6.80,
-        "Rank":167,
+        "Rating":8.10,
+        "Rank":139,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3121023.png"
-    },
-    {
-        "Name":"Joe Flacco",
-        "Team":"Denver Broncos",
-        "Position":"QB",
-        "Rating":2.20,
-        "Rank":257,
-        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/11252.png"
     },
     {
         "Name":"Jack Doyle",
         "Team":"Indianapolis Colts",
         "Position":"TE",
-        "Rating":3.15,
-        "Rank":238,
+        "Rating":4.40,
+        "Rank":213,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16504.png"
     },
     {
         "Name":"Denver DST",
         "Team":"Denver Broncos",
         "Position":"DST",
-        "Rating":4.55,
-        "Rank":210,
+        "Rating":4.65,
+        "Rank":208,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/10/denver-broncos-logo-vector.png"
     },
     {
         "Name":"Reggie Bonnafon",
         "Team":"Carolina Panthers",
         "Position":"RB",
-        "Rating":3.45,
-        "Rank":232,
+        "Rating":5.00,
+        "Rank":201,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3116642.png"
     },
     {
         "Name":"Zach Pascal",
         "Team":"Indianapolis Colts",
         "Position":"WR",
-        "Rating":3.00,
-        "Rank":241,
+        "Rating":8.75,
+        "Rank":126,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2978109.png"
     },
     {
         "Name":"Randall Cobb",
         "Team":"Dallas Cowboys",
         "Position":"WR",
-        "Rating":4.90,
-        "Rank":203,
+        "Rating":4.70,
+        "Rank":207,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14053.png"
     },
     {
         "Name":"Dante Pettis",
         "Team":"San Francisco 49ers",
         "Position":"WR",
-        "Rating":3.20,
-        "Rank":237,
+        "Rating":2.85,
+        "Rank":244,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3127306.png"
     },
     {
         "Name":"Marquise Goodwin",
         "Team":"San Francisco 49ers",
         "Position":"WR",
-        "Rating":3.70,
-        "Rank":227,
+        "Rating":2.65,
+        "Rank":248,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15839.png"
     },
     {
         "Name":"Danny Amendola",
         "Team":"Detroit Lions",
         "Position":"WR",
-        "Rating":6.25,
-        "Rank":176,
+        "Rating":8.00,
+        "Rank":141,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/11674.png"
     },
     {
         "Name":"Justin Jackson",
         "Team":"Los Angeles Chargers",
         "Position":"RB",
-        "Rating":4.30,
-        "Rank":215,
+        "Rating":2.35,
+        "Rank":234,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3116136.png"
     },
     {
         "Name":"Cleveland DST",
         "Team":"Cleveland Browns",
         "Position":"DST",
-        "Rating":3.95,
-        "Rank":222,
+        "Rating":1.90,
+        "Rank":263,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2015/08/cleveland-browns-logo-vector-download.jpg"
     },
     {
         "Name":"Deebo Samuel",
         "Team":"San Francisco 49ers",
         "Position":"WR",
-        "Rating":5.35,
-        "Rank":194,
+        "Rating":4.25,
+        "Rank":216,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3126486.png"
     },
     {
         "Name":"Pittsburgh DST",
         "Team":"Pittsburgh Steelers",
         "Position":"DST",
-        "Rating":2.90,
-        "Rank":243,
+        "Rating":3.60,
+        "Rank":229,
         "PhotoURL":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Pittsburgh_Steelers_logo.svg/1024px-Pittsburgh_Steelers_logo.svg.png"
     },
     {
         "Name":"Jordan Wilkins",
         "Team":"Indianapolis Colts",
         "Position":"RB",
-        "Rating":3.65,
-        "Rank":228,
+        "Rating":3.55,
+        "Rank":230,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3051891.png"
     },
     {
         "Name":"Marcus Mariota",
         "Team":"Tennessee Titans",
         "Position":"QB",
-        "Rating":2.60,
-        "Rank":249,
+        "Rating":1.60,
+        "Rank":269,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576980.png"
     },
     {
         "Name":"Paul Richardson",
         "Team":"Washington Redskins",
         "Position":"WR",
-        "Rating":2.85,
-        "Rank":244,
+        "Rating":2.10,
+        "Rank":259,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16781.png"
     },
     {
         "Name":"Justice Hill",
         "Team":"Baltimore Ravens",
         "Position":"RB",
-        "Rating":4.10,
-        "Rank":219,
+        "Rating":3.95,
+        "Rank":222,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4038441.png"
-    },
-    {
-        "Name":"Mike Nugent",
-        "Team":"New England Patriots",
-        "Position":"K",
-        "Rating":4.75,
-        "Rank":206,
-        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/8461.png"
     },
     {
         "Name":"Mike Davis",
         "Team":"Chicago Bears",
         "Position":"RB",
-        "Rating":3.35,
-        "Rank":234,
+        "Rating":3.15,
+        "Rank":238,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3025433.png"
-    },
-    {
-        "Name":"Matt Bryant",
-        "Team":"Atlanta Falcons",
-        "Position":"K",
-        "Rating":4.05,
-        "Rank":220,
-        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4333.png"
     },
     {
         "Name":"Dare Ogunbowale",
         "Team":"Tampa Bay Buccaneers",
         "Position":"RB",
-        "Rating":3.80,
-        "Rank":225,
+        "Rating":3.40,
+        "Rank":233,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2983509.png"
     },
     {
         "Name":"Ted Ginn",
         "Team":"New Orleans Saints",
         "Position":"WR",
-        "Rating":5.60,
-        "Rank":183,
+        "Rating":6.50,
+        "Rank":171,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/10453.png"
     },
     {
         "Name":"Joey Slye",
         "Team":"Carolina Panthers",
         "Position":"K",
-        "Rating":4.40,
-        "Rank":213,
+        "Rating":4.85,
+        "Rank":204,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3124084.png"
     },
     {
         "Name":"James Washington",
         "Team":"Pittsburgh Steelers",
         "Position":"WR",
-        "Rating":4.35,
-        "Rank":246,
+        "Rating":2.15,
+        "Rank":258,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3122449.png"
     },
     {
         "Name":"Josh Lambo",
         "Team":"Jacksonville Jaguars",
         "Position":"K",
-        "Rating":0.60,
-        "Rank":289,
+        "Rating":3.45,
+        "Rank":232,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2998120.png"
     },
     {
         "Name":"Mason Rudolph",
         "Team":"Pittsburgh Steelers",
         "Position":"QB",
-        "Rating":5.00,
-        "Rank":201,
+        "Rating":3.75,
+        "Rank":226,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3116407.png"
     },
     {
         "Name":"Zane Gonzalez",
         "Team":"Arizona Cardinals",
         "Position":"K",
-        "Rating":2.40,
-        "Rank":253,
+        "Rating":0.55,
+        "Rank":290,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3043234.png"
     },
     {
         "Name":"Ty Montgomery",
         "Team":"New York Jets",
         "Position":"RB",
-        "Rating":2.55,
-        "Rank":250,
+        "Rating":2.25,
+        "Rank":256,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2577134.png"
     },
     {
         "Name":"Ryan Tannehill",
         "Team":"Tennessee Titans",
         "Position":"QB",
-        "Rating":2.25,
-        "Rank":256,
+        "Rating":6.25,
+        "Rank":176,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14876.png"
     },
     {
         "Name":"Chris Conley",
         "Team":"Jacksonville Jaguars",
         "Position":"WR",
-        "Rating":5.40,
-        "Rank":193,
+        "Rating":4.80,
+        "Rank":205,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2973626.png"
     },
     {
         "Name":"Matt Gay",
         "Team":"Tampa Bay Buccaneers",
         "Position":"K",
-        "Rating":1.15,
-        "Rank":278,
+        "Rating":0.90,
+        "Rank":283,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4249087.png"
     },
     {
         "Name":"Trey Burton",
         "Team":"Chicago Bears",
         "Position":"TE",
-        "Rating":3.50,
-        "Rank":231,
+        "Rating":0.80,
+        "Rank":285,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16974.png"
     },
     {
         "Name":"Jason Myers",
         "Team":"Seattle Seahawks",
         "Position":"K",
-        "Rating":4.00,
-        "Rank":221,
+        "Rating":2.60,
+        "Rank":249,
         "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2473037.png"
     },
     {
         "Name":"Philadelphia DST",
         "Team":"Philadelphia Eagles",
         "Position":"DST",
-        "Rating":3.10,
-        "Rank":239,
+        "Rating":4.35,
+        "Rank":214,
         "PhotoURL":"https://seeklogo.net/wp-content/uploads/2014/10/philadelphia-eagles-logo.png"
     }
    ,
@@ -1918,80 +1870,80 @@
        "Name":"Jalen Richard",
        "Team":"Oakland Raiders",
        "Position":"RB",
-       "Rating":3.55,
-       "Rank":230,
+       "Rating":4.00,
+       "Rank":221,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2972091.png"
    },
    {
        "Name":"Derrius Guice",
        "Team":"Washington Redskins",
        "Position":"RB",
-       "Rating":7.55,
-       "Rank":150,
+       "Rating":8.95,
+       "Rank":122,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3843750.png"
    },
    {
        "Name":"Damien Harris",
        "Team":"New England Patriots",
        "Position":"RB",
-       "Rating":2.45,
-       "Rank":252,
+       "Rating":2.20,
+       "Rank":257,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3925347.png"
    },
    {
        "Name":"Adam Humphries",
        "Team":"Tennessee Titans",
        "Position":"WR",
-       "Rating":1.90,
-       "Rank":263,
+       "Rating":1.95,
+       "Rank":262,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2576491.png"
    },
    {
        "Name":"Trey Quinn",
        "Team":"Washington Redskins",
        "Position":"WR",
-       "Rating":1.85,
-       "Rank":264,
+       "Rating":1.45,
+       "Rank":272,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3115365.png"
    },
    {
        "Name":"C.J. Prosise",
        "Team":"Seattle Seahawks",
        "Position":"RB",
-       "Rating":2.15,
-       "Rank":258,
+       "Rating":2.05,
+       "Rank":260,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2980148.png"
    },
    {
        "Name":"Darius Slayton",
        "Team":"New York Giants",
        "Position":"WR",
-       "Rating":4.45,
-       "Rank":212,
+       "Rating":6.65,
+       "Rank":168,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3916945.png"
    },
    {
        "Name":"Jakobi Meyers",
        "Team":"New England Patriots",
        "Position":"WR",
-       "Rating":2.70,
-       "Rank":247,
+       "Rating":2.35,
+       "Rank":254,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3916433.png"
    },
    {
        "Name":"Alex Erickson",
        "Team":"Cincinatti Bengals",
        "Position":"WR",
-       "Rating":3.30,
-       "Rank":235,
+       "Rating":2.75,
+       "Rank":246,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2977800.png"
    },
    {
        "Name":"Josh Rosen",
        "Team":"Miami Dolphins",
        "Position":"QB",
-       "Rating":2.05,
-       "Rank":260,
+       "Rating":1.00,
+       "Rank":281,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3886377.png"
    },
    {
@@ -2006,64 +1958,64 @@
        "Name":"Teddy Bridgewater",
        "Team":"New Orleans Saints",
        "Position":"QB",
-       "Rating":1.45,
-       "Rank":272,
+       "Rating":0.30,
+       "Rank":295,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16728.png"
    },
    {
        "Name":"Anthony Miller",
        "Team":"Chicago Bears",
        "Position":"WR",
-       "Rating":5.70,
-       "Rank":187,
+       "Rating":6.05,
+       "Rank":180,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3050487.png"
    },
    {
        "Name":"Chris Boswell",
        "Team":"Pittsburgh Steelers",
        "Position":"K",
-       "Rating":0.80,
-       "Rank":285,
+       "Rating":0.05,
+       "Rank":300,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/17372.png"
    },
    {
        "Name":"KeeSean Johnson",
        "Team":"Arizona Cardinals",
        "Position":"WR",
-       "Rating":1.60,
-       "Rank":269,
+       "Rating":1.30,
+       "Rank":275,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3124537.png"
    },
    {
        "Name":"Taylor Gabriel",
        "Team":"Chicago Bears",
        "Position":"WR",
-       "Rating":3.40,
-       "Rank":233,
+       "Rating":2.70,
+       "Rank":247,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/17437.png"
    },
    {
        "Name":"Demaryius Thomas",
        "Team":"New York Jets",
        "Position":"WR",
-       "Rating":7.25,
-       "Rank":155,
+       "Rating":8.20,
+       "Rank":137,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13216.png"
    },
    {
        "Name":"Case Keenum",
        "Team":"Washington Redskins",
        "Position":"QB",
-       "Rating":0.65,
-       "Rank":288,
+       "Rating":1.40,
+       "Rank":273,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15168.png"
    },
    {
        "Name":"Darren Fells",
        "Team":"Houston Texans",
        "Position":"TE",
-       "Rating":4.50,
-       "Rank":211,
+       "Rating":4.55,
+       "Rank":210,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15773.png"
    },
    {
@@ -2079,296 +2031,248 @@
        "Name":"Brian Hill",
        "Team":"Atlanta Falcons",
        "Position":"RB",
-       "Rating":2.30,
-       "Rank":255,
+       "Rating":2.95,
+       "Rank":242,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3125403.png"
    },
    {
        "Name":"Jeff Wilson",
        "Team":"San Francisco 49ers",
        "Position":"RB",
-       "Rating":3.75,
-       "Rank":226,
+       "Rating":2.90,
+       "Rank":243,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3122976.png"
    },
    {
        "Name":"New York Jets DST",
        "Team":"New York Jets",
        "Position":"DST",
-       "Rating":1.75,
-       "Rank":266,
+       "Rating":0.65,
+       "Rank":288,
        "PhotoURL":"https://seeklogo.net/wp-content/uploads/2011/05/new-york-jets-logo-vector-01.png"
    },
    {
        "Name":"Dawson Knox",
        "Team":"Buffalo Bills",
        "Position":"TE",
-       "Rating":1.95,
-       "Rank":262,
+       "Rating":1.50,
+       "Rank":271,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3930086.png"
    },
    {
        "Name":"Darren Sproles",
        "Team":"Philadelphia Eagles",
        "Position":"RB",
-       "Rating":2.35,
-       "Rank":254,
+       "Rating":2.45,
+       "Rank":252,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/8544.png"
    },
    {
        "Name":"Willie Snead",
        "Team":"Baltimore Ravens",
        "Position":"WR",
-       "Rating":1.50,
-       "Rank":271,
+       "Rating":1.15,
+       "Rank":278,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/17258.png"
    },
    {
        "Name":"John Ross",
        "Team":"Cincinatti Bengals",
        "Position":"WR",
-       "Rating":1.80,
-       "Rank":265,
+       "Rating":1.55,
+       "Rank":270,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3052177.png"
    },
    {
        "Name":"T.J. Yeldon",
        "Team":"Buffalo Bills",
        "Position":"RB",
-       "Rating":2.65,
-       "Rank":248,
+       "Rating":2.55,
+       "Rank":250,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2976516.png"
    },
    {
        "Name":"DeAndre Washington",
        "Team":"Oakland Raiders",
        "Position":"RB",
-       "Rating":2.50,
-       "Rank":251,
+       "Rating":2.40,
+       "Rank":253,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2577654.png"
    },
    {
        "Name":"Noah Fant",
        "Team":"Denver Broncos",
        "Position":"TE",
-       "Rating":2.00,
-       "Rank":261,
+       "Rating":4.75,
+       "Rank":206,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4036131.png"
    },
    {
        "Name":"Indianapolis DST",
        "Team":"Indianapolis Colts",
        "Position":"DST",
-       "Rating":1.55,
-       "Rank":276,
+       "Rating":4.30,
+       "Rank":215,
        "PhotoURL":"https://seeklogo.net/wp-content/uploads/2015/08/indianapolis-colts-logo-vector-download.jpg"
    },
    {
        "Name":"Kyle Allen",
        "Team":"Carolina Panthers",
        "Position":"QB",
-       "Rating":1.35,
-       "Rank":274,
+       "Rating":5.50,
+       "Rank":191,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3115293.png"
    },
    {
        "Name":"Dan Bailey",
        "Team":"Minnesota Vikings",
        "Position":"K",
-       "Rating":2.80,
-       "Rank":245,
+       "Rating":2.30,
+       "Rank":255,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14322.png"
    },
    {
        "Name":"Tre'Quan Smith",
        "Team":"New Orleans Saints",
        "Position":"WR",
-       "Rating":0.70,
-       "Rank":287,
+       "Rating":0.20,
+       "Rank":297,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3128451.png"
-   },
-   {
-       "Name":"Detroit DST",
-       "Teams":"Detroit Lions",
-       "Position":"DST",
-       "Rating":2.95,
-       "Rank":242,
-       "PhotoURL":"https://seeklogo.net/wp-content/uploads/2012/09/detroit-lions-logo-vector-01.png"
    },
    {
        "Name":"Albert Wilson",
        "Team":"Miami Dolphins",
        "Position":"WR",
-       "Rating":1.70,
-       "Rank":267,
+       "Rating":1.25,
+       "Rank":276,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/17051.png"
    },
    {
        "Name":"Kansas City DST",
        "Team":"Kansas City Chiefs",
        "Position":"DST",
-       "Rating":1.55,
-       "Rank":270,
+       "Rating":2.80,
+       "Rank":245,
        "PhotoURL":"https://seeklogo.net/wp-content/uploads/2015/08/kansas-city-chiefs-logo-vector-download.jpg"
    },
    {
        "Name":"Allen Lazard",
        "Team":"Green Bay Packers",
        "Position":"WR",
-       "Rating":4.25,
-       "Rank":216,
+       "Rating":3.70,
+       "Rank":227,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3120588.png"
    },
    {
        "Name":"David Moore",
        "Team":"Seattle Seahawks",
        "Position":"WR",
-       "Rating":1.00,
-       "Rank":281,
+       "Rating":0.75,
+       "Rank":286,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2577327.png"
    },
    {
        "Name":"Mike Boone",
        "Team":"Minnesota Vikings",
        "Position":"RB",
-       "Rating":1.65,
-       "Rank":268,
+       "Rating":1.70,
+       "Rank":267,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3139033.png"
    },
    {
        "Name":"Paris Campbell",
        "Team":"Indianapolis Colts",
        "Position":"WR",
-       "Rating":1.20,
-       "Rank":277,
+       "Rating":0.85,
+       "Rank":284,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3121410.png"
    },
    {
        "Name":"Brandon Bolden",
        "Team":"New England Patriots",
        "Position":"RB",
-       "Rating":1.05,
-       "Rank":280,
+       "Rating":2.50,
+       "Rank":251,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15478.png"
-   },
-   {
-       "Name":"Brandon McManus",
-       "Team":"Denver Broncos",
-       "Position":"K",
-       "Rating":0.45,
-       "Rank":292,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/16339.png"
    },
    {
        "Name":"Antonio Brown",
        "Team":"FA",
        "Position":"WR",
-       "Rating":0.75,
-       "Rank":286,
+       "Rating":0.50,
+       "Rank":291,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/13934.png"
-   },
-   {
-       "Name":"Damiere Byrd",
-       "Team":"Arizona Cardinals",
-       "Position":"WR",
-       "Rating":0.05,
-       "Rank":300,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2577667.png"
    },
    {
        "Name":"Rashard Higgins",
        "Team":"Cleveland Browns",
        "Position":"WR",
-       "Rating":0.40,
-       "Rank":293,
+       "Rating":0.15,
+       "Rank":298,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3915097.png"
    },
    {
        "Name":"Eddy Pineiro",
        "Team":"Chicago Bears",
        "Position":"K",
-       "Rating":0.10,
-       "Rank":299,
+       "Rating":0.45,
+       "Rank":292,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4034949.png"
    },
    {
        "Name":"Dwayne Haskins",
        "Team":"Washington Redskins",
        "Position":"QB",
-       "Rating":0.25,
-       "Rank":296,
+       "Rating":2.00,
+       "Rank":261,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4040616.png"
    },
    {
        "Name":"Tyler Eifert",
        "Team":"Cincinatti Bengals",
        "Position":"TE",
-       "Rating":0.55,
-       "Rank":290,
+       "Rating":0.35,
+       "Rank":294,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3127310.png"
-   },
-   {
-       "Name":"Tra Carson",
-       "Team":"Detroit Lions",
-       "Position":"RB",
-       "Rating":2.10,
-       "Rank":259,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/2572861.png"
-   },
-   {
-       "Name":"Adam Vinatieri",
-       "Team":"Indianapolis Colts",
-       "Position":"K",
-       "Rating":1.40,
-       "Rank":273,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/1097.png"
    },
    {
        "Name":"Olabisi Johnson",
        "Team":"Minnesota Vikings",
        "Position":"WR",
-       "Rating":1.10,
-       "Rank":279,
+       "Rating":1.65,
+       "Rank":268,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3917067.png"
    },
    {
        "Name":"Jonnu Smith",
        "Team":"Tennessee Titans",
        "Position":"TE",
-       "Rating":0.95,
-       "Rank":282,
+       "Rating":1.35,
+       "Rank":274,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3054212.png"
    },
    {
        "Name":"Zay Jones",
        "Team":"Oakland Raiders",
        "Position":"WR",
-       "Rating":0.90,
-       "Rank":283,
+       "Rating":1.20,
+       "Rank":277,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3059722.png"
-   },
-   {
-       "Name":"Theo Riddick",
-       "Team":"Denver Broncos",
-       "Position":"RB",
-       "Rating":0.85,
-       "Rank":284,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/15994.png"
    },
    {
        "Name":"Hunter Renfrow",
        "Team":"Oakland Raiders",
        "Position":"WR",
-       "Rating":0.35,
-       "Rank":294,
+       "Rating":3.00,
+       "Rank":241,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3135321.png"
    },
    {
        "Name":"N'Keal Harry",
        "Team":"New England Patriots",
        "Position":"WR",
-       "Rating":0.30,
-       "Rank":295,
+       "Rating":0.70,
+       "Rank":287,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/4047839.png"
    },
    {
@@ -2376,17 +2280,123 @@
        "Team":"Denver Broncos",
        "Position":"WR",
        "Rating":0.20,
-       "Rank":297,
+       "Rank":282,
        "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3057987.png"
    },
    {
-       "Name":"Benjamin Watson",
+       "Name":"Matt Moore",
+       "Team":"Kansas City Chiefs",
+       "Position":"QB",
+       "Rating":0.10,
+       "Rank":299,
+       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/11128.png"
+   },
+   {
+       "Name":"Jake Kumerow",
+       "Team":"Green Bay Packers",
+       "Position":"WR",
+       "Rating":0.25,
+       "Rank":296,
+       "PhotoURL":""
+   },
+   {
+       "Name":"Nick Folk",
        "Team":"New England Patriots",
+       "Position":"K",
+       "Rating":1.05,
+       "Rank":280,
+       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/10621.png"
+   },
+   {
+       "Name":"Wendell Smallwood",
+       "Team":"Washington Redskins",
+       "Position":"RB",
+       "Rating":0.60,
+       "Rank":289,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3042429.png"
+   },
+   {
+       "Name":"Nick Foles",
+       "Team":"Jacksonville Jaguars",
+       "Position":"QB",
+       "Rating":4.90,
+       "Rank":203,
+       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/14877.png"
+   },
+   {
+       "Name":"Brandon Allen",
+       "Team":"Denver Broncos",
+       "Position":"QB",
+       "Rating":3.80,
+       "Rank":252,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/2574511.png"
+   },
+   {
+       "Name":"Ryan Finley",
+       "Team":"Cincinatti Bengals",
+       "Position":"QB",
+       "Rating":4.60,
+       "Rank":209,
+       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3042876.png"
+   },
+   {
+       "Name":"Mike Gesicki",
+       "Team":"Miami Dolphins",
        "Position":"TE",
-       "Rating":0.15,
-       "Rank":298,
-       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/5557.png"
+       "Rating":3.95,
+       "Rank":220,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3116164.png"
+   },
+   {
+       "Name":"Michael Badgley",
+       "Team":"Los Angeles Chargers",
+       "Position":"K",
+       "Rating":3.75,
+       "Rank":224,
+       "PhotoURL":"https://a.espncdn.com/i/headshots/nfl/players/full/3123052.png"
+   },
+   {
+       "Name":"Josh Reynolds",
+       "Team":"Los Angeles Rams",
+       "Position":"WR",
+       "Rating":3.20,
+       "Rank":237,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3115306.png"
+   },
+   {
+       "Name":"Keelan Cole",
+       "Team":"Jacksonville Jaguars",
+       "Position":"WR",
+       "Rating":3.10,
+       "Rank":239,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/3071572.png"
+   },
+   {
+       "Name":"Ryan Fitzpatrick",
+       "Team":"Miami Dolphins",
+       "Position":"QB",
+       "Rating":1.85,
+       "Rank":264,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/8664.png"
+   },
+   {
+       "Name":"Josh Gordon",
+       "Team":"Seattle Seahawks",
+       "Position":"WR",
+       "Rating":8.45,
+       "Rank":132,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/15705.png"
+
+   },
+   {
+       "Name":"Kyle Rudolph",
+       "Team":"Minnesota Vikings",
+       "Position":"TE",
+       "Rating":0.40,
+       "Rank":293,
+       "PhotoURL":"https://a.espncdn.com/i?img=/i/headshots/nfl/players/full/14054.png"
    }
+  
 
 
 ]
